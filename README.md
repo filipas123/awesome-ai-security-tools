@@ -138,6 +138,7 @@ Securing the AI agents themselves — auditing coding agents (Claude Code, Codex
   - **Related:** [SkillSpector](https://github.com/NVIDIA/SkillSpector) · [AgentDojo](https://github.com/ethz-spylab/agentdojo)
 - **[AI Security Verification Standard (AISVS)](https://github.com/OWASP/AISVS)** 🔬⚠️ — Stable verification standard defining testable security requirements for AI applications across model lifecycle, supply chain, data handling, agentic systems, and MCP integrations. *(OWASP)* — **note:** security standard and checklist, not an executable scanner; share-alike terms apply to adapted material. *(★ 429 · updated 2026-07-30)*
   - **Related:** [asamm](https://github.com/scadastrangelove/asamm) · [Agent Threat Rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+- **[AgentLeak](https://github.com/yagobski/agentleak)** 🟢🔬 — Privacy-leakage benchmark + testing toolkit for AI agents: 7 internal communication pathways, 1,000 multi-agent scenarios (IEEE Access 2026); detects leaks across tool calls, memory, inter-agent messages and logs, with redacted reports and CI gates. *(★ 10 · updated 2026-10-04)*
 
 ### Runtime Protection & Enforcement
 
